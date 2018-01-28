@@ -1,0 +1,11 @@
+﻿.my-nav {
+    background: rgb(175, 217, 236)
+}
+
+.my-nav ul {
+    margin: 10px 0;
+}
+
+body {
+    padding-top: 60px;
+}
